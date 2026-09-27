@@ -1,0 +1,104 @@
+{
+  "slug": "stomachclear",
+  "box": 35,
+  "date": "2026-10-15",
+  "title": "StomachClear",
+  "question": "How does the stomach digest food?",
+  "hook": "Your stomach is a muscular bag of acid strong enough to dissolve meat, yet it doesn't digest itself. Swallow a bolus, cut the stomach open, watch it churn food into chyme three times a minute, and meet the germ a doctor drank to win a Nobel Prize.",
+  "thumbText": "HOW YOUR STOMACH DIGESTS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "stomach",
+    "digestion",
+    "gastric acid",
+    "peristalsis",
+    "H. pylori",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A 25 cm tube and a J-shaped bag",
+      "text": "Food goes from the mouth down the oesophagus, about 25 cm long, through the diaphragm into the stomach, which sits under the left ribs. The stomach has a fundus, a body, an antrum and a pylorus, a ring of muscle at the exit. Its wall has a folded lining and three layers of muscle."
+    },
+    {
+      "title": "Swallowing is a squeeze, not a slide",
+      "text": "Chewing mixes food with saliva, whose amylase starts on starch. When you swallow, the epiglottis seals the windpipe for about a second, then a peristaltic wave carries the bolus down in about 5 to 10 seconds. It even works upside down."
+    },
+    {
+      "title": "Acid that doesn't burn its maker",
+      "text": "Parietal cells use proton pumps to make hydrochloric acid, keeping the stomach at about pH 1.5 to 3.5. Chief cells make pepsinogen, which acid turns into pepsin to cut proteins. A mucus gel full of bicarbonate keeps the lining nearly neutral; weaken it and an ulcer can form."
+    },
+    {
+      "title": "A mill with a gatekeeper",
+      "text": "About three times a minute a squeeze sweeps towards the pylorus, grinding food into chyme. The pylorus lets through only bits under about 1 to 2 mm and jets the rest back. Water leaves in minutes; a meal takes about 2 to 4 hours, and fatty food the longest."
+    },
+    {
+      "title": "Hungry, full and growling",
+      "text": "The empty stomach holds about 75 mL but relaxes to take 1 to 1.5 litres. Stretch receptors signal fullness up the vagus nerve, ghrelin rises before meals, and gastrin calls for more acid. Growls are gas and fluid being squeezed along."
+    },
+    {
+      "title": "When things go wrong",
+      "text": "Acid slipping past a weak sphincter causes heartburn. Most ulcers are caused by the germ H. pylori, which Barry Marshall proved by drinking it in 1984; spicy food doesn't cause them. Vomiting is a protective reflex run by the brainstem. For your own health, talk to a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Oesophagus",
+      "def": "The 25 cm muscular food pipe from the throat to the stomach."
+    },
+    {
+      "term": "Peristalsis",
+      "def": "Waves of muscle squeezing that push food along the gut."
+    },
+    {
+      "term": "Lower oesophageal sphincter",
+      "def": "The ring of muscle that lets food into the stomach and keeps acid out of the oesophagus."
+    },
+    {
+      "term": "Parietal cell",
+      "def": "A stomach cell that makes hydrochloric acid using proton pumps (H⁺/K⁺-ATPase)."
+    },
+    {
+      "term": "Pepsin",
+      "def": "An enzyme, activated by acid, that breaks proteins into smaller pieces."
+    },
+    {
+      "term": "Mucus barrier",
+      "def": "A gel laced with bicarbonate that protects the stomach lining from its own acid."
+    },
+    {
+      "term": "Chyme",
+      "def": "The soupy mix of partly digested food and gastric juice that leaves the stomach."
+    },
+    {
+      "term": "Pylorus",
+      "def": "The stomach's exit, whose sphincter lets through only small particles."
+    },
+    {
+      "term": "Ghrelin",
+      "def": "The hunger hormone, made mostly by the stomach, which rises before meals."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "stomachclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
